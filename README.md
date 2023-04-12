@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 sᴀɴᴀ ダ ᴍᴜsɪᴄ 」──
+    ──「 LIFE STYLE」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/2bb674484e9afab02576e.jpg">
+  <img src="https://graph.org/file/f4e32fecd41c0de7a6108.jpg">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/7d0ab7f7315184e90ea27.jpg">
+  <img src="https://graph.org/file/f4e32fecd41c0de7a6108.jpg">
 </p>
 
 <h3 align="center">
