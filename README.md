@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 sᴀɴᴀ ダ ᴍᴜsɪᴄ 」──
+    ──「 LIFE 🇮🇳 STYLE」──
 </h2>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/7d0ab7f7315184e90ea27.jpg">
+  <img src="https://graph.org/file/f4e32fecd41c0de7a6108.jpg">
 </p>
 
 <h3 align="center">
@@ -81,4 +81,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [LIFESTYLE WORLD](https://github.com/AnitXD/lifestyle-.git) ғᴏʀ [LIFESTYLE ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/AnitXD/lifestyle-.git)_ </b>
