@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/f4e32fecd41c0de7a6108.jpg">
+  <img src="https://telegra.ph//file/cfec293065ebd3f489328.jpg">
 </p>
 
 <h3 align="center">
@@ -81,4 +81,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [LIFESTYLE WORLD](https://github.com/AnitXD/lifestyle-.git) ғᴏʀ [LIFESTYLE ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/AnitXD/lifestyle-.git)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [LIFESTYLE WORLD](https://github.com/AnitXD/lifestyl/annumusic) ғᴏʀ [LIFESTYLE ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/AnitXD/lifestyle/annumusic </b>
